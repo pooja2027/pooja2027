@@ -1,5 +1,3 @@
-### 👋 Hi, I'm @pooja2027
-
 <div align="center">
   <h1>👋 Hi, I'm Pooja</h1>
   <p><strong>Geoinformatics Engineering Student | Remote Sensing & Spatial Analytics</strong></p>
@@ -33,7 +31,7 @@ I focus on understanding environmental and coastal systems using **satellite ima
 
 **Languages & Tools**
 
-* Python (NumPy, Pandas, basic geospatial processing)
+* Python (basic geospatial processing)
 * QGIS / ArcGIS
 * Remote sensing data interpretation
 * Spatial data visualization
