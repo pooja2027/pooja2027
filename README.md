@@ -6,85 +6,63 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Geoinformatics-Student-blue?style=for-the-badge" alt="Geoinformatics Student">
   <img src="https://img.shields.io/badge/Focus-Remote%20Sensing%20%26%20GIS-green?style=for-the-badge" alt="Focus">
-  <img src="https://img.shields.io/badge/Location-Chennai%2C%20India-orange?style=for-the-badge" alt="Location">
+  <img src="https://img.shields.io/badge/Location-CEG%2C%20Anna University,Chennai-orange?style=for-the-badge" alt="Location">
 </p>
 
 ---
 
-## About Me
+## 🛰️ What I Work On
 
-Geoinformatics engineering student interested in **remote sensing, GIS, and spatial data analysis**.
-I focus on understanding environmental and coastal systems using **satellite imagery, spatial analytics, and geospatial tools**.
+I build geospatial analysis tools focused on environmental monitoring, coastal change detection, and spatial data visualization — using satellite imagery, Python, and open geospatial platforms.
 
----
-
-## Core Areas
-
-* 🌍 Remote Sensing (optical, hyperspectral, basic SAR concepts)
-* 🗺️ GIS Analysis and Spatial Analytics
-* 🌊 Coastal and Environmental Monitoring
-* 🌱 Vegetation analysis and land cover studies
+Current research interests: **coastal change detection · vegetation monitoring · hyperspectral analysis · SAR/InSAR · spatial analytics**
 
 ---
 
-## Technical Skills
+## 📂 Featured Projects
+
+### 🌿 [NDVI Vegetation Monitoring](https://github.com/pooja2027/Geospatial_Portfolio/tree/main/NDVI_Analysis)
+Automated NDVI analysis pipeline for any location using Sentinel-2 via Google Earth Engine.
+Annual trend (2018–2024), seasonal breakdown, vegetation classification by area,
+interactive Folium map, and auto-generated reports.  
+`Python` `GEE` `Streamlit` `Folium` `OSMnx`
+
+### 🏗️ [GeoVista — AEC Market Insights](https://github.com/pooja2027/Geospatial_Portfolio/tree/main/GeoVista)
+Geospatial dashboard for AEC industry project analysis. Upload CSV project data,
+apply KMeans or DBSCAN geographic clustering, visualize with interactive maps
+and cost heatmaps, export as GeoJSON.  
+`Python` `Streamlit` `scikit-learn` `Folium` `GeoPandas`
+
+> 📁 Full portfolio: [Geospatial_Portfolio](https://github.com/pooja2027/Geospatial_Portfolio)
+
+---
+
+## 🛠️ Technical Skills
 
 **Languages & Tools**
+`Python` `SQL` `QGIS` `ArcGIS Pro` `ENVI` `Git`
 
-* Python (basic geospatial processing)
-* QGIS / ArcGIS
-* Remote sensing data interpretation
-* Spatial data visualization
+**Remote Sensing**
+`Google Earth Engine` `Sentinel-2` `Landsat` `Hyperspectral` `SAR / InSAR` `Thermal IR`
 
-**Other Tools**
+**Python Stack**
+`GeoPandas` `Shapely` `OSMnx` `Folium` `Rasterio` `PyQGIS` `Matplotlib` `Streamlit`
 
-* SQL for data management
-* Git & GitHub for version control
-
----
-
-## Current Work
-
-Developing small geospatial analysis projects using **Python and satellite imagery**.
-
-Current focus areas:
-
-* Vegetation monitoring using NDVI
-* Raster-based spatial analysis
-* Environmental and coastal change studies
-
-First project:
-NDVI Vegetation Analysis — calculating vegetation index from satellite imagery.
-
-Portfolio repository:
-https://github.com/pooja2027/Geospatial_Portfolio
+**Courses completed**
+Cartography & GIS · Remote Sensing · Hyperspectral & Thermal RS · Digital Image Processing · Spatial DB Management · Microwave Remote Sensing · Laser Scanning · Spatial Analytics
 
 ---
 
-## Key Repositories
+## 🏅 Highlights
 
-**Geospatial_Portfolio**
-Collection of geospatial analysis mini-projects using Python and GIS.
-
-**GeoVista**
-Geospatial data visualization dashboard developed during a hackathon.
-
----
-
-## Collaboration Interests
-
-* GIS and remote sensing mini-projects
-* Satellite imagery analysis
-* Geospatial data science applications
+- 🏛️ **IASc-INSA-NASI SRFP 2026 Fellow** — IIT Gandhinagar (Fluvial Geomorphology, Jun–Jul 2026)
+- 🤝 **Katalyst India Scholar**
+- 🎖️ NCC Member · SGE Coordinator (Society of Geoinformatics Engineering)
+- 🏆 Code; Without Barriers Hackathon — GeoVista (Year 1)
 
 ---
 
-## Contact
+## 📬 Connect
 
-Email: [pooja2027@gmail.com](mailto:pooja2027@gmail.com)
-LinkedIn: https://www.linkedin.com/in/pooja2027
-GitHub: https://github.com/pooja2027
-
-<!--
-pooja2027/pooja2027 is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/pooja2027)
+[![Email](https://img.shields.io/badge/Email-pooja2027@gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:pooja2027@gmail.com)
